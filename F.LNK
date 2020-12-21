@@ -1,0 +1,58 @@
+BLINKER EXECUTABLE EXTENDED
+BLINKER EXECUTABLE NODELETE
+BLINKER INCREMENTAL OFF
+NODEFLIB
+NOBELL
+
+OUTPUT m
+
+FILE m
+FILE p_druk
+FILE pracowni
+FILE fmenu
+FILE zero 
+FILE defin
+FILE placa
+FILE prodhis
+
+
+
+                FILE \_NEW\COMMON\dokum
+                FILE \_NEW\COMMON\mag
+                FILE \_NEW\COMMON\march
+                FILE \_NEW\COMMON\kartdok
+                FILE \_NEW\COMMON\param
+				FILE \_NEW\COMMON\tow
+                FILE \_NEW\COMMON\wydruk
+                FILE \_NEW\COMMON\kontrah
+                FILE \_NEW\COMMON\magindex	
+                FILE \_NEW\COMMON\rejestr							
+                FILE \_NEW\COMMON\kjproc
+                FILE \_NEW\COMMON\kmbuf
+                FILE \_NEW\COMMON\ksdruk		
+				FILE \_NEW\COMMON\DROBNE\startdru		
+				FILE \_NEW\COMMON\DROBNE\strj_fun				
+				FILE \_NEW\COMMON\DROBNE\rap				
+                FILE \_NEW\COMMON\m_proc				
+                FILE \_NEW\COMMON\kj_new
+                FILE \_NEW\COMMON\locks				
+
+
+                FILE \_NEW\COMMON\nowyrok
+                FILE \_NEW\SMIEC\sh_smiec
+                FILE \_NEW\COMMON\haslo
+
+
+
+#                LIBRARY c:\clipper5\lib\clipface.lib				
+#                LIBRARY c:\clipper5\lib\rlibc.lib								
+
+LIBRARY C:\CLIPPER5\LIB\BLXCLP52
+LIBRARY C:\CLIPPER5\LIB\CLIPPER
+
+LIBRARY C:\CLIPPER5\LIB\BLXRATEX
+
+LIBRARY c:\CLIPPER5\LIB\EXTEND
+LIBRARY c:\CLIPPER5\LIB\DBFNTX
+LIBRARY c:\CLIPPER5\LIB\TERMINAL
+
